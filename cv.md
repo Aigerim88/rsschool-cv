@@ -52,3 +52,30 @@ function reverseWords(str) {
 ```  
 
 ---
+
+### Experience
+
+[First project](https://github.com/Aigerim88/centone_new)  
+
+**Marketing manager • February 2021 – August 2021**  
+*"Sun Finance"*
+* Developed an annual/quarterly/monthly marketing plan and managed its execution
+* Provided an incoming stream of leads, including from social networks FB/Instagram
+* Provided marketing support in opening new offline offices all over the country
+
+**Marketing manager • June 2020 – November 2020**  
+*"Amazing Apps" Kiev, Ukraine (remote internship)*
+* Created and tested over 300 advertising creatives for buying Facebook ads for Health & Fitness apps
+
+**Marketing manager • September 2018 – March 2020**  
+*"Goodwill" LLC*  
+*Construction companies: "Elite House", "Imarat Stroy"*
+
+**Trade Marketing manager • October 2014 – December 2017**  
+**Consumer Behavioral Market Analyst • July 2013 – October 2014**  
+*"Imperial Tobacco Kyrgyzstan" LLC*
+
+**Specialist of Marketing Research Group • October 2010 – July 2013**  
+*"SkyMobile" LLC*
+
+---

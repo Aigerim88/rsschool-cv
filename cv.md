@@ -79,3 +79,27 @@ function reverseWords(str) {
 *"SkyMobile" LLC*
 
 ---
+
+### Higher education
+
+**Kyrgyz National University n.a. J.Balasagyn**  
+Institute of Management and Business  
+Faculty of Economics  
+*Specialization «Statistics», diploma with honor*  
+
+### Additional education
+
+October 2020 - *Facebook certified Digital Marketing Associate*  
+February 2020 – June 2020 - *University of Internet Professions “Netology” Online Course "Digital Marketer"*  
+March 2020 - *Business coach Ekaterina Ukolova Training "Sales Management"*  
+August 2019 - *School of SMM and targeting “Motivation Studio” Course "SMM Manager 3.0"*  
+
+---
+
+### Languages
+
+Kyrgyz - native  
+Russian - fluent  
+English - B1 Intermediate  
+![eng_test_result](https://drive.google.com/uc?export=view&id=1UMBxGdAiyhhMfTf8c887_sMHPCK9wSHZ)  
+[eng_test_result](https://drive.google.com/uc?export=view&id=1UMBxGdAiyhhMfTf8c887_sMHPCK9wSHZ)

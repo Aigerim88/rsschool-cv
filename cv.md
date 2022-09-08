@@ -7,7 +7,7 @@
 
 ### Contact information:
 
-**Phone:** +996 700 502803  
+**Phone:** +996 555  505 795  
 **E-mail:** erkebaeva.aigerim88@gmail.com  
 **Discord:** Aigerim Erkebaeva (@Aigerim88)  
 
@@ -16,15 +16,15 @@
 ### About myself  
 
 I have worked in a field far from software development for more than 10 years – worked as an offline marketing specialist in different industries. During the Covid-19 pandemic, I started to think about career changing and moving into programming.  
-In 2021 I was happy to be part of Sun Finance fintech startup team, where I was responsible for marketing. There I worked very closely with the development team, in particular with the front-end developers. This is inspired me, even more, to dive into software development. Since I have long gravitated towards my further development, I began to study the basics of HTML, CSS. And in summer 2021, I applied for the Programmer AyimdarII project, which is supported by KSSDA and EU in Kyrgyzstan. Having passed all three stages of selection, now I am studying Front-end development at IT Academy, Bishkek.  
+In 2021 I was happy to be part of Sun Finance fintech startup team, where I was responsible for marketing. There I worked very closely with the development team, in particular with the front-end developers. This is inspired me to dive into software development. Since I have long gravitated towards my further development, I began to study the basics of HTML, CSS. And in summer 2021, I applied for the Programmer AyimdarII project, which is supported by KSSDA and EU in Kyrgyzstan. Having completed Front-end development courses at IT Academy, Bishkek, now I am a trainee in one of the biggest mobile operator in Kyrgyzstan.
 
 ---
 
 ### Skills  
 
 * HTML5, CSS3
-* Basic JavaScript
-* VS Code, Git, GitHub  
+* JavaScript, React
+* GitHub, Postman
 
 ---
 
@@ -55,7 +55,7 @@ function reverseWords(str) {
 
 ### Experience
 
-[First project](https://github.com/Aigerim88/centone_new)  
+[First project](https://github.com/Aigerim88/booking)  
 
 **Marketing manager • February 2021 – August 2021**  
 *"Sun Finance"*
